@@ -27,9 +27,5 @@
 ![Dark Theme](Forest-dark screenshot.png)
 ![Light Theme](Forest-light screenshot.png)
 
-## ライセンス
-
-MITライセンス
-
 Tkinter-theme used: [Forest-ttk-theme](https://github.com/rdbende/Forest-ttk-theme)
 >>>>>>> 7eecc00 (firest コミット)
