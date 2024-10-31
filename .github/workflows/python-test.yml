@@ -1,3 +1,4 @@
+# .github/workflows/python-test.yml
 name: Python Tests
 
 on:
@@ -28,4 +29,4 @@ jobs:
         
     - name: Run tests
       run: |
-        python -m pytest
+        pytest  # pytestを直接実行
