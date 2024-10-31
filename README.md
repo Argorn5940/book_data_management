@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# book_data_management
-=======
 # Book Data Management System
 
 書籍データを管理するためのシンプルなGUIアプリケーションです。
