@@ -1,5 +1,6 @@
 # tests/test_main.py
 import unittest
+from unittest import mock
 import mock  # mockを直接インポート
 import main
 
